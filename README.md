@@ -1,5 +1,5 @@
 Enoca .NET Challenge
-.NET Core 6 API, MSSQL, Entity Framework, Repository Design Pattern, Swagger, N-tier Architecture teknolojileri kullaranarak yaptığım kargo firması .NET API
+.NET Core 6 API, MSSQL, Entity Framework, Repository Design Pattern, Swagger, N-tier Architecture teknolojileri kullaranarak yaptığım kargo firması .NET API  
 Bazı ekran görüntüleri:
 ![1](https://github.com/MhmtEmrKlnc/enoca_challenge/assets/160057470/efc9da64-593d-4946-b136-7cc4d557281b)
 ![2](https://github.com/MhmtEmrKlnc/enoca_challenge/assets/160057470/683b5bc8-eaf8-47f0-987f-d1fbdf85631b)
