@@ -50,7 +50,10 @@ namespace enoca_challenge.Controllers
 		[HttpPost]
 		public IActionResult AddOrder([FromQuery] Order_Dto orderAdd)
 		{
-			if (orderAdd == null)
+            //This function could be simplified a lot.
+            //You shouldn't call database repeatedly for the same data.(If condition at Line 105)
+            //You could've brought relative carrier information with an Include() at your repository.
+            if (orderAdd == null)
 				return BadRequest(ModelState);
 
 
